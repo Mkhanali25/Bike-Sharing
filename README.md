@@ -6,7 +6,7 @@ In this challenge we were tasked with reading our data file in tableau and using
 The first thing that was required for us to properly display our data was to convert our "trip duration" to a datetime object. After completion we had to transfer the data to Tableau so we could further analyize our data set. Once in Tableau we created many sheets which we added to our story; I had added a total of 7 visualizations to show the investors.
 1. August Peak Hours 
   1. This visualization shows us the peak times for riders to go out and use the bikes.      This gives us a sense of how many bikes were used, at what times they were used, and when the busiest times were.
-[!August](https://github.com/Mkhanali25/Bike-Sharing/blob/main/Screen%20Shot%202021-03-04%20at%204.27.11%20PM.png)
+![August](https://github.com/Mkhanali25/Bike-Sharing/blob/main/Screen%20Shot%202021-03-04%20at%204.27.11%20PM.png)
 2. Checkout Times For Users
   2. This visualization shows us the duration of time each user was using their bikes for. With this we can see how long each bike was checkout for and based off that we can furthur calculate how much money can be made from each bike.
 3. Checkout Times for Gender
